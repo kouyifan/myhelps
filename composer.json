@@ -1,0 +1,17 @@
+{
+    "name": "kouyf/myhelps",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kouyf\\Myhelps\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kouyf",
+            "email": "hu01232002@qq.com"
+        }
+    ]
+}
